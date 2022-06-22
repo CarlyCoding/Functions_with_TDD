@@ -7,5 +7,10 @@ def return_10():
 def add(one , two):
     return one + two
 
-def substract(ten , five):
+def subtract(ten , five):
     return ten - five
+
+def multiply(four , two):
+    return four * two
+
+

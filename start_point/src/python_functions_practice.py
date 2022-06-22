@@ -37,3 +37,7 @@ def number_to_full_name_month_9(nine):
     if nine == "September":
         return "September"
 
+def number_to_short_month_name(one):
+    if one == "Jan":
+        return "Jan"
+

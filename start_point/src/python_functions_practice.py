@@ -13,4 +13,7 @@ def subtract(ten , five):
 def multiply(four , two):
     return four * two
 
+def divide(ten, two):
+    return ten / two
+
 

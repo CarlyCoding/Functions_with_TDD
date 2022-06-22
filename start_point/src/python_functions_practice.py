@@ -25,3 +25,8 @@ def join_string(string_1 , string_2):
 def add_string_as_number(one, two):
     return int(one) + int(two)
 
+def number_to_full_month_name(one):
+    if one == "January":
+        return "January"
+
+

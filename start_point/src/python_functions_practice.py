@@ -45,3 +45,7 @@ def number_to_short_month_name(four):
     if four == "Apr":
         return "Apr"
 
+def number_to_short_month_name(ten):
+    if ten == "Oct":
+        return "Oct"
+

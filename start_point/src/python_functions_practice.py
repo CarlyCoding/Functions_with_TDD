@@ -16,4 +16,8 @@ def multiply(four , two):
 def divide(ten, two):
     return ten / two
 
+def length_of_string(test):
+    return len(test)
+
+
 

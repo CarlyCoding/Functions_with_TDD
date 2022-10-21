@@ -2,6 +2,6 @@ This was my first practise (paired programming) in a lab with writing functions 
 
 In summary:
 
-Practice creating functions
-Practice creating objects, assigning variables, calling functions
-Practice testing, writing expectation then solution. 
+<p> Practice creating functions </p>
+<p> Practice creating objects, assigning variables, calling functions </p>
+<p> Practice testing, writing expectation then solution. </p>
